@@ -1,5 +1,6 @@
 # ResnetCNN
 Repository for creating a deep residual network in tensorflow
+https://gist.github.com/danijar/c7ec9a30052127c7a1ad169eeb83f159 (ref)
 
 ### Resnet:
 based on paper, [Deep Residual Learning for Image Recognition](https://arxiv.org/pdf/1512.03385.pdf) He et al.2015
